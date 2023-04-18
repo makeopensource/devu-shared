@@ -1,4 +1,4 @@
-export type Course = {
+export type CourseScore = {
     id?: number
     courseId: number
     score: number
